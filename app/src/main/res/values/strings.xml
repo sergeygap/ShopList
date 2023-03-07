@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="notes" translatable="false">Notes</string>
+    <string name="shop_list" translatable="false">Shop List</string>
+    <string name="new_item" translatable="false">New Item</string>
+    <string name="title_hint" translatable="false">Заголовок</string>
+    <string name="description_hint" translatable="false">Опис</string>
+    <string name="new_list" translatable="false">Новий список</string>
+    <string name="list_name" translatable="false">Назва списку</string>
+    <string name="create_list" translatable="false">Створити список</string>
+    <string name="delete_alert" translatable="false">Видалити</string>
+    <string name="cancel" translatable="false">Відміна</string>
+    <string name="update" translatable="false">Оновити</string>
+    <string name="general" translatable="false">Основні</string>
+    <string name="chose_note_style" translatable="false">Стиль нотаток</string>
+    <string name="chose_time_format" translatable="false">Формат часу</string>
+    <string name="delete_item" translatable="false">Ви бажаєте видалити цей елемент?</string>
+    <string name="remove_ads" translatable="false">Видалити рекламу</string>
+    <string name="remove_ads_summery" translatable="false">Видалити всю рекламу з даного додатку</string>
+    <string name="theme_settings" translatable="false">Налатування теми</string>
+    <string name="chose_theme" translatable="false">Вибір теми</string>
+    <string name="note_text_settings" translatable="false">Налаштування нотаток</string>
+    <string name="title_test_size" translatable="false">Розмір заголовку</string>
+    <string name="content_test_size" translatable="false">Розмір контенту</string>
+</resources>
